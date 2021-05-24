@@ -2,9 +2,9 @@
 gabos = ['Rafid', 'Shayan', 'Frans', 'Sina', 'Hassony', 'Hadde', 'Ali']
 
 #Definition
-Rafid = "Rafid is the richest in the group"
+Rafid = "Rafid is, the one and only, richest individual in the group"
 Sina = "Sina is the poorest in the group"
-Shayan = "Shayan is 3rh richest in the group"
+Shayan = "Shayan is one of the richest in the group"
 Hassony = "Hassony is on Bill Gates level"
 Hadde = "Hadde is one of the richest in the group"
 Frans = "Frans, the famous arab Eagle is one of the richest in the group"
